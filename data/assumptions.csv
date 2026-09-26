@@ -1,0 +1,4 @@
+scenario,price,volume,variable_cost,fixed_cost,investment
+Downside,95.0,8500,54.0,240000,500000
+Base,110.0,10000,48.0,240000,500000
+Upside,125.0,11500,45.0,240000,500000
