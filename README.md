@@ -48,6 +48,13 @@ The generated outputs include:
 
 Inputs are synthetic assumptions for a fictional product. They are **not empirical demand estimates** and should not be treated as market forecasts.
 
+## Important limitations
+
+- Inputs are synthetic assumptions for a fictional product.
+- The model does not estimate demand elasticity or observed customer response.
+- ROI and break-even outputs are scenario results conditional on the stated assumptions, not forecasts.
+- Real decisions require validated costs, pricing constraints, demand evidence, and context-specific assumptions.
+
 ## Technical stack
 
 Python · pandas · NumPy · Plotly · financial modelling concepts
